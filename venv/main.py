@@ -32,7 +32,7 @@ sender = 'meenakshi.bhtt@gmail.com'
 # then go to security (right) and app password (center)
 # insert the password and then choose mail and this computer and then generate
 # copy the password generated here
-password = 'ztyuzvfbrxqawcbv'
+password = '##########'
 # put the email of the receiver here
 receiver = 'ab0358031@gmail.com'
 
