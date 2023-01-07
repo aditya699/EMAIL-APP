@@ -57,9 +57,14 @@ roles and responsibilities-
 
 Know Me-
 adityabhatt19058568031.stats@rla.du.ac.in
+
 https://www.linkedin.com/in/aditya-bhatt-92915a1b2/
+
 https://github.com/aditya699
+
 https://public.tableau.com/profile/aditya3036#!/?newProfile=&activeTab=0
+
 https://www.kaggle.com/adityabhatt
+
 https://www.youtube.com/channel/UCGKE__9Wmi0udQD5904NvCA
 
